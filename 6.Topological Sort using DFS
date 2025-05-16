@@ -87,3 +87,16 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter number of vertices: 6
+Enter number of edges: 6
+Enter edges (u v) directed from u to v:
+5 2
+5 0
+4 0
+4 1
+2 3
+3 1
+Topological Sort:
+5 4 2 3 1 0 
