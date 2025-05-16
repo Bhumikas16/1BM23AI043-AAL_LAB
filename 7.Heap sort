@@ -59,3 +59,22 @@ int main() {
 
     return 0;
 }
+
+output:
+
+Enter number of elements: 10
+Enter 10 elements:
+7
+56
+34
+90
+6
+8
+3
+67
+87
+65
+Original array:
+7 56 34 90 6 8 3 67 87 65 
+Sorted array:
+3 6 7 8 34 56 65 67 87 90 
