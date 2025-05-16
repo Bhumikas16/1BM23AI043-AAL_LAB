@@ -37,3 +37,18 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter the number of elements: 10
+Enter 10 elements:
+3
+2
+11
+2
+77
+66
+44
+56
+34
+66
+Sorted array: 2 2 3 11 34 44 56 66 66 77 
