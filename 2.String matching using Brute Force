@@ -37,3 +37,8 @@ int main() {
 
     return 0;
 }
+
+ouput:
+Enter the text: goodmorning
+Enter the pattern to search: od
+Pattern found at index 2
